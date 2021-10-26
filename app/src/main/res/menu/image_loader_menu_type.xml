@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuItemGridView"
+        android:title="Grid View"
+        />
+    <item
+        android:id="@+id/menuItemListView"
+        android:title="List View"
+        />
+    <item
+        android:id="@+id/menuItemViewPager"
+        android:title="View Pager"
+        />
+</menu>
